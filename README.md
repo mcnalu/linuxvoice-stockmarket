@@ -2,6 +2,8 @@
 
 This code was written for a tutorial that appeared in [Linux Voice](http://linuxvoice.com) issue 14.
 
+To build it I used netbeans and created a project with the src directory specified as the location of the source code. It should be straightforward using any java-capable IDE, or even on the command line if you know how to use javac. 
+
 Some points to note:
 
 - it was developed and tested under Java 1.7, but shouldn't be too fussy about
