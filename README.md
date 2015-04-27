@@ -1,6 +1,6 @@
 #Linux voice Stockmarket
 
-This code was written for a tutorial that appeared in [Linux Voice](linuxvoice.com) issue 14.
+This code was written for a tutorial that appeared in [Linux Voice](http://linuxvoice.com) issue 14.
 
 Some points to note:
 
@@ -14,6 +14,8 @@ Some points to note:
 
 Andrew Conway
 27 April 2015
-[blog.mcnalu.net](blog.mcnalu.net)
+
+[blog.mcnalu.net](http://blog.mcnalu.net)
+
 mcnalu@mcnalu.net
 
